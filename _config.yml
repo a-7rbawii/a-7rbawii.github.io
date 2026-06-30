@@ -1,0 +1,7 @@
+title: Herbawi's Blog
+description: Al-Herbawi's technical blog and profile
+theme: jekyll-theme-just-the-docs
+
+# Enable the sidebar table of contents navigation
+nav_enabled: true
+enable_heading_anchors: true
